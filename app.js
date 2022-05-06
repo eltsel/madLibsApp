@@ -1,5 +1,6 @@
 'use strict';
 
+let numberOfQuestions=8;
 let userInputs = ["woman","marriage","family","childbirth","twelve","Zeus","married women","weddings"];
 let originalStory = `Hera is the goddess of ${userInputs[0]}, ${userInputs[1]}, ${userInputs[2]} and ${userInputs[3]} in ancient Greek religion and mythology, one of the ${userInputs[4]} Olympians and the sister and wife of ${userInputs[5]}. 
 
